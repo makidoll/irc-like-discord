@@ -7,7 +7,7 @@ This will remove certain features from Discord such as:
 
 - `...is typing`
 - `is playing...`
-- Player status
+- Player statuses
 
 ## Why...?
 
