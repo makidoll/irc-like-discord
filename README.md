@@ -1,5 +1,5 @@
 # Forceful Unworry (Discord)
-> aaaa
+> 😔 Discord continuously makes me worried, nervous and has ruined my attention span.
 
 ## What is this?
 
