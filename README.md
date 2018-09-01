@@ -22,7 +22,7 @@ All of those things have eaten my attention span and now I'm left with checking 
 
 Then follow these steps:
 
-- Save [forceful-unworry-discord.css](https://raw.githubusercontent.com/makitsune/forceful-unworry-discord/master/forceful-unworry-discord.css) somewhere permanenet such as your Documents folder.
+- Save [forceful-unworry-discord.css](https://raw.githubusercontent.com/makitsune/forceful-unworry-discord/master/forceful-unworry-discord.css) somewhere permanent such as your Documents folder.
 - Make sure Discord is running.
 - Right mouse click inside the folder => `Open PowerShell window here`
 ```sh
