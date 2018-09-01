@@ -1,0 +1,20 @@
+/*
+Writen by Maki for the sake of being sane...
+https://github.com/makitsune/forceful-unworry-discord
+*/ 
+
+[class*="status-"],
+[class*="avatar-"][class*="maskProfile-"],
+.channel-activity-text,
+[class*="activityText-"],
+[class*="typing-"] {
+	display: none;
+}
+
+[class*="channelTextArea-"] {
+	margin-bottom: 20px;
+}
+
+[class*="avatarOffline-"] {
+	filter: none;
+}
