@@ -1,6 +1,8 @@
 # Forceful Unworry (Discord)
 > 😔 Discord continuously makes me worried, nervous and has ruined my attention span.
 
+Possible thanks to: https://github.com/leovoel/BeautifulDiscord
+
 ## What is this?
 
 This will remove certain features from Discord such as:
