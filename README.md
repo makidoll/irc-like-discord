@@ -11,6 +11,8 @@ This will remove certain features from Discord such as:
 - `is playing...`
 - Player statuses
 
+It makes Discord feel more like IRC.
+
 ## Why...?
 
 All of those things have eaten my attention span and now I'm left with checking Discord constantly feeling worried. I'm a very emotional person and I can care about people more than myself, which is inherently bad anyway. Now I often deal with many headaches, a lot of anxiety and panic attacks. I have considered to stop using Discord for a while but I would miss my friends and I'm only gonna hurt myself more by doing that. If this all seems silly to you... just leave...
