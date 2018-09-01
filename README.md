@@ -1,5 +1,5 @@
-# Forceful Unworry (Discord)
-> 😔 Discord continuously makes me worried, nervous and has ruined my attention span.
+# IRC-like Discord
+> 💬 Removes features from Discord to make people worry less.
 
 Possible thanks to: https://github.com/leovoel/BeautifulDiscord
 
@@ -11,7 +11,7 @@ This will remove certain features from Discord such as:
 - `is playing...`
 - Player statuses
 
-It makes Discord feel more like IRC.
+It makes Discord friends feel like their on IRC bouncers.
 
 ## Why...?
 
@@ -26,12 +26,12 @@ All of those things have eaten my attention span and now I'm left with checking 
 
 Then follow these steps:
 
-- Save [forceful-unworry-discord.css](https://raw.githubusercontent.com/makitsune/forceful-unworry-discord/master/forceful-unworry-discord.css) somewhere permanent such as your Documents folder.
+- Save [irc-like-discord.css](https://raw.githubusercontent.com/makitsune/irc-like-discord/master/irc-like-discord.css) somewhere permanent such as your Documents folder.
 - Make sure Discord is running.
 - Right mouse click inside the folder => `Open PowerShell window here`
 ```sh
 python -m pip install -U https://github.com/leovoel/BeautifulDiscord/archive/master.zip
-beautifuldiscord --css forceful-unworry-discord.css
+beautifuldiscord --css irc-like-discord.css
 ```
 If you want to revert, do:
 ```
@@ -44,9 +44,9 @@ Make sure you have `python3` and `discord`.
 
 ```sh
 mkdir ~/.maki
-curl -o ~/.maki/forceful-unworry-discord.css https://raw.githubusercontent.com/makitsune/forceful-unworry-discord/master/forceful-unworry-discord.css
+curl -o ~/.maki/irc-like-discord.css https://raw.githubusercontent.com/makitsune/irc-like-discord/master/irc-like-discord.css
 python3 -m pip install -U https://github.com/leovoel/BeautifulDiscord/archive/master.zip
-beautifuldiscord --css ~/.maki/forceful-unworry-discord.css
+beautifuldiscord --css ~/.maki/irc-like-discord.css
 ```
 
 If you want to revert, do:
