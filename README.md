@@ -11,7 +11,7 @@ This will remove certain features from Discord such as:
 - `is playing...`
 - Player statuses
 
-It makes Discord friends feel like their on IRC bouncers.
+It makes Discord friends feel like they're on IRC bouncers.
 
 ## Why...?
 
