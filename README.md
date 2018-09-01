@@ -1,5 +1,5 @@
 # Forceful Unworry (Discord)
-> aaaa
+> 😔 Discord continuously makes me worried, nervous and has ruined my attention span.
 
 ## What is this?
 
@@ -22,14 +22,15 @@ All of those things have eaten my attention span and now I'm left with checking 
 
 Then follow these steps:
 
-- Save [forceful-unworry-discord.css](https://raw.githubusercontent.com/makitsune/forceful-unworry-discord/master/forceful-unworry-discord.css) somewhere permanenet such as your Documents folder.
+- Save [forceful-unworry-discord.css](https://raw.githubusercontent.com/makitsune/forceful-unworry-discord/master/forceful-unworry-discord.css) somewhere permanent such as your Documents folder.
 - Make sure Discord is running.
 - Right mouse click inside the folder => `Open PowerShell window here`
-- ```sh
+```sh
 python -m pip install -U https://github.com/leovoel/BeautifulDiscord/archive/master.zip
 beautifuldiscord --css forceful-unworry-discord.css
 ```
-- If you want to revert, do: ```
+If you want to revert, do:
+```
 beautifuldiscord --revert
 ```
 
@@ -44,6 +45,7 @@ python3 -m pip install -U https://github.com/leovoel/BeautifulDiscord/archive/ma
 beautifuldiscord --css ~/.maki/forceful-unworry-discord.css
 ```
 
-If you want to revert, do: ```
+If you want to revert, do:
+```
 beautifuldiscord --revert
 ```
