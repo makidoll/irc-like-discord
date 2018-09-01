@@ -3,6 +3,8 @@
 
 Possible thanks to: https://github.com/leovoel/BeautifulDiscord
 
+If you have a better name for this repo, feel free to tell me...
+
 ## What is this?
 
 This will remove certain features from Discord such as:
