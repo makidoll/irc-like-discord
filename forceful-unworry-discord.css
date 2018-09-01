@@ -18,3 +18,8 @@ https://github.com/makitsune/forceful-unworry-discord
 [class*="avatarOffline-"] {
 	filter: none;
 }
+
+[class*="mask-"] {
+	mask: none;
+	-webkit-mask: none;
+}
