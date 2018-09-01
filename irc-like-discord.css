@@ -7,6 +7,7 @@ https://github.com/makitsune/forceful-unworry-discord
 [class*="avatar-"][class*="maskProfile-"],
 .channel-activity-text,
 [class*="activityText-"],
+[class*="activityIcon-"],
 [class*="typing-"] {
 	display: none;
 }
